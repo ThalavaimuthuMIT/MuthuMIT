@@ -1,4 +1,4 @@
-# OpenUniversity Openshift Cluster Monitoring RunBook
+# Openshift Cluster Monitoring RunBook
 <p align="center">
   <img 
     width="100"
