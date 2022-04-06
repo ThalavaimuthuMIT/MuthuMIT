@@ -9,10 +9,10 @@
 
 ## OCP Services and Monitoring
 **1.1 Steps to Login to OCP Portal UI**
-- Access below links to access
-     - [OU Dev Console Page](https://console-openshift-console.apps.cp4d4.dev.wkc.open.ac.uk) in the browser to access Login page.
-     - [OU PROD Console Page](https://console-openshift-console.apps.cp4d.live.wkc.open.ac.uk/) in the browser to access Login page.
-     - [BSI DEV Console Page](https://console-openshift-console.apps.cp4d.datagovernancedev.bsigroup.com/) in the browser to access Login page.
+- Click below links to access
+     - :point_left: [OU Dev Console Page](https://console-openshift-console.apps.cp4d4.dev.wkc.open.ac.uk)
+     - :point_left: [OU PROD Console Page](https://console-openshift-console.apps.cp4d.live.wkc.open.ac.uk/)
+     - :point_left: [BSI DEV Console Page](https://console-openshift-console.apps.cp4d.datagovernancedev.bsigroup.com/)
 
 - Select ***mit_htpasswd_provider*** as a provider to Login.
 ![LOGIN-PAGE](images/login-page.PNG?raw=true)
